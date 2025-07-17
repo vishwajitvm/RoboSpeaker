@@ -1,6 +1,6 @@
 # 🔊 RoboSpeaker: Text-to-Speech & Weather Voice Assistant
 
-SpeakCast is a simple yet powerful Python-based voice assistant that can **speak any text you type** and **announce the weather** for any city using live weather data — all through **Text-to-Speech** (TTS) technology.
+RoboSpeaker is a simple yet powerful Python-based voice assistant that can **speak any text you type** and **announce the weather** for any city using live weather data — all through **Text-to-Speech** (TTS) technology.
 
 ---
 
